@@ -2,7 +2,7 @@
 //  Animal.swift
 //  Zoo database
 //
-//  Created by Qualan Woodard on 7/13/15.
+//  Created by QuaWoodard on 7/13/15.
 //  Copyright © 2015 Qualan Woodard. All rights reserved.
 //
 
